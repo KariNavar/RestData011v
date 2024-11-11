@@ -1,0 +1,157 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "rut": "17599918-5",
+      "nombre": "Karina Alicia",
+      "apellidos": "Escobar Navarro",
+      "email": "kescobar@duoc.cl",
+      "password": "duoc2024",
+      "isactive": true,
+      "imagen": "assets/imagenes/karina.png"
+    },
+    {
+      "id": "4c9f",
+      "rut": "16683032-K",
+      "nombre": "Eduardo",
+      "apellidos": "Monroy Chavez",
+      "email": "eduardo@duoc.cl",
+      "password": "duoc2024",
+      "isactive": true,
+      "imagen": "assets/imagenes/leo.png"
+    },
+    {
+      "id": "cc58",
+      "rut": "23352103-5",
+      "nombre": "Agustina",
+      "apellidos": "Arcos",
+      "email": "agustina@duoc.cl",
+      "password": "duoc2024",
+      "isactive": true,
+      "imagen": ""
+    },
+    {
+      "id": "7a10",
+      "rut": "17599918-3",
+      "nombre": "leonardo",
+      "apellidos": "di caprio",
+      "email": "leo@duoc.cl",
+      "password": "duoc2024",
+      "isactive": true,
+      "imagen": ""
+    }
+  ],
+  "eventos": [
+    {
+      "id": "1",
+      "nombre": "SEMINARIO",
+      "descripcion": "Mobile World Congress",
+      "fecha": "30 Octubre 2024",
+      "hora": "10:00 AM",
+      "ubicacion": "Casa Piedra",
+      "imagen": "assets/imagenes/mobile.png"
+    },
+    {
+      "id": "2",
+      "nombre": "CHARLA",
+      "descripcion": "Metodologías Ágiles",
+      "fecha": "10 Octubre 2024",
+      "hora": "01:00 PM",
+      "ubicacion": "Auditorio Sede Maipú",
+      "imagen": "assets/imagenes/images.jpeg"
+    },
+    {
+      "id": "3",
+      "nombre": "TALLER",
+      "descripcion": "Liderazgo mas mujeres en las TIC",
+      "fecha": "27 Octubre 2024",
+      "hora": "06:00 PM",
+      "ubicacion": "Online",
+      "imagen": "assets/imagenes/equipo.jpg"
+    },
+    {
+      "id": "4",
+      "nombre": "TALLER",
+      "descripcion": "Robótica y Programación",
+      "fecha": "04 Octubre 2024",
+      "hora": "10:00 AM",
+      "ubicacion": "Casino Sede Maipú",
+      "imagen": "assets/imagenes/industria.png"
+    },
+    {
+      "id": "5",
+      "nombre": "CHARLA",
+      "descripcion": "Conoce la carrera de Ingeniería en Conectividad y Redes",
+      "fecha": "04 noviembre 2024",
+      "hora": "10:00 AM",
+      "ubicacion": "Auditorio Sede Maipú",
+      "imagen": "assets/imagenes/redes.png"
+    },
+    {
+      "id": "6",
+      "nombre": "CHARLA",
+      "descripcion": "Conoce la carrera de Ingeniería en Informática",
+      "fecha": "11 Noviembre 2024",
+      "hora": "12:00 PM",
+      "ubicacion": "Auditorio Sede Maipú",
+      "imagen": "assets/imagenes/informatica.png"
+    }
+  ],
+  "registro": [
+    {
+      "id": "9e77",
+      "nombre": "SEMINARIO MOBILE",
+      "descripcion": "Mobile World Congress",
+      "fecha": "30 Octubre 2024",
+      "hora": "10:00 AM",
+      "ubicacion": "Auditorio Sede Maipú",
+      "rut": "17599918-3",
+      "email": "kescobar@duoc.cl",
+      "comentario": "gracias"
+      
+    },
+    {
+      "id": "3dad",
+      "nombre": "CHARLA AGILIDAD",
+      "descripcion": "Metodologías Ágiles",
+      "fecha": "10 Octubre 2024",
+      "hora": "06:00 PM",
+      "ubicacion": "Online",
+      "rut": "17599918-3",
+      "email": "kescobar@duoc.cl",
+      "comentario": "Fue un evento de gran aprendizaje"
+    },
+    {
+      "id": "fd09",
+      "nombre": "TALLER ROBOTICA",
+      "descripcion": "Robótica y Programación",
+      "fecha": "10 Octubre 2024",
+      "hora": "06:00 PM",
+      "ubicacion": "Online",
+      "rut": "17599918-3",
+      "email": "kescobar@duoc.cl",
+      "comentario": "muy buena la experiencia"
+    },
+    {
+      "id": "bc9d",
+      "nombre": "CHARLA AGILIDAD",
+      "descripcion": "Metodologías Ágiles",
+      "fecha": "04 Octubre 2024",
+      "hora": "10:00 AM",
+      "ubicacion": "Auditorio Sede Maipú",
+      "rut": "17599918-3",
+      "email": "leo@duoc.cl",
+      "comentario": " "
+    }
+  ],
+  "qr": [
+    {
+      "id": "d6ec",
+      "nombre": "SEMINARIO MOBILE",
+      "fecha": "30 Octubre 2024",
+      "rut": "17599918-3",
+      "email": "kescobar@duoc.cl"
+    }
+  ]
+ 
+}
