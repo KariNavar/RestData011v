@@ -1,5 +1,5 @@
 const jsonServer = require("json-server");
-const server = jsonServer.creare();
+const server = jsonServer.create();
 const router = jsonSErver.router("almacen.json");
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 10000;
